@@ -10,7 +10,14 @@ def countdown(i):
         countdown(i-1)
 
 
+def factorial(i):
+    if i == 1:
+        return 1
+    else:
+        return i * factorial(i-1)
+
 
 countdown(5) # => 5 4 3 2 1
 
-countdown(3) # => 3 2 1
+print(factorial(5)) # => 120
+print(factorial(3)) # => 6

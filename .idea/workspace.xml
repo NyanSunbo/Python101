@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="427ba4d6-8d8c-4642-9efa-a57664017e56" name="Changes" comment="Init lesson learn">
-      <change afterPath="$PROJECT_DIR$/Algorithm/recursive.py" afterDir="false" />
+    <list default="true" id="427ba4d6-8d8c-4642-9efa-a57664017e56" name="Changes" comment="learn: recursive">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/recursive.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/recursive.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721037164718</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="learn: recursive">
+      <option name="closed" value="true" />
+      <created>1721127420734</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721127420734</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,7 +161,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init lesson learn" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init lesson learn" />
+    <MESSAGE value="learn: recursive" />
+    <option name="LAST_COMMIT_MESSAGE" value="learn: recursive" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
