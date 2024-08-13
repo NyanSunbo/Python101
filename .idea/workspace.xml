@@ -4,20 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="427ba4d6-8d8c-4642-9efa-a57664017e56" name="Changes" comment="learn: factorial">
-      <change afterPath="$PROJECT_DIR$/Algorithm/Sorted/quicksort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/divideAndConquer.py" afterDir="false" />
+    <list default="true" id="427ba4d6-8d8c-4642-9efa-a57664017e56" name="Changes" comment="learn: Hashtable">
+      <change afterPath="$PROJECT_DIR$/Algorithm/Search/breadth_first_search.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/recursive.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/recursive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datastructure/hash_table.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datastructure/hash_table.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <branch-grouping />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -43,8 +50,11 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Python.binary_search.executor&quot;: &quot;Run&quot;,
+    &quot;Python.breadth_first_search.executor&quot;: &quot;Run&quot;,
     &quot;Python.divideAndConquer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hash_table.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.quicksort.executor&quot;: &quot;Run&quot;,
     &quot;Python.recursive.executor&quot;: &quot;Run&quot;,
     &quot;Python.selected_sorted.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -58,7 +68,7 @@
       <recent name="C:\Users\Chatc\AlgorithmPython\Python101" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main">
     <configuration name="binary_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python101" />
       <option name="ENV_FILES" value="" />
@@ -157,7 +167,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721128316399</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="learn: Divide and conquer , Quicksort">
+      <option name="closed" value="true" />
+      <created>1721678499157</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721678499157</updated>
+    </task>
+    <task id="LOCAL-00006" summary="learn: Hashtable">
+      <option name="closed" value="true" />
+      <created>1721777223323</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721777223323</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,7 +201,9 @@
     <MESSAGE value="Init lesson learn" />
     <MESSAGE value="learn: recursive" />
     <MESSAGE value="learn: factorial" />
-    <option name="LAST_COMMIT_MESSAGE" value="learn: factorial" />
+    <MESSAGE value="learn: Divide and conquer , Quicksort" />
+    <MESSAGE value="learn: Hashtable" />
+    <option name="LAST_COMMIT_MESSAGE" value="learn: Hashtable" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
